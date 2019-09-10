@@ -16,7 +16,7 @@
         <div id="app" class="container mt-5">
             <h1>Wilayas/Communes</h1>
                 
-            <communes :wilayas="{{ json_encode(config('variables.wilayas')) }}" :init-commune="543"></communes>
+            <example-component></example-component>
         </div>
 
         <script src="/js/app.js"></script>

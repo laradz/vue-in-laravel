@@ -7,7 +7,7 @@ Scaffold repo for Laravel Meetup Algiers, September 21th 2019
 
 ```
 
-git clone git@github.com:laradz/vue-in-laravel.git
+git clone https://github.com/laradz/vue-in-laravel.git
 
 cd vue-in-laravel
 
